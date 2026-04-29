@@ -54,7 +54,9 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
+## License
 
 <img width="1203" height="527" alt="image" src="https://github.com/user-attachments/assets/798f28f1-1997-44a5-b0e6-71a4fa1eaebf" />
 
@@ -63,8 +65,6 @@ In order to ensure that the Laravel community is welcoming to all, please review
 <img width="804" height="412" alt="image" src="https://github.com/user-attachments/assets/336ba2fb-52b4-49a0-acd1-d5562989f9d9" />
 
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
